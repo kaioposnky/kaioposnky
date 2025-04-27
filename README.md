@@ -1,5 +1,5 @@
 ## Hey! I'm Kaio, let's work together!  👋
-<p padding-left="2rem"> You can find me here </p>
+**You can find me here**
 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red&logoWidth=20)](mailto:kposansky@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20)](https://www.linkedin.com/in/kaio-santos-a721aa31a/)
