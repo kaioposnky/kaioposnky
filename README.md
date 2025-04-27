@@ -33,6 +33,7 @@ Reach me
 - [KriptoX-C - Local CryptoBank written in C](https://github.com/oKaio06/KriptoX-C-Adm)
 - [Truko - Famous game Truco Paulista using WebSockets written in JavaScript + Pure NodeJS](https://github.com/oKaio06/truko)
 - [buSnake - Famous game Snake adapted written in JavaScript + HTML + CSS](https://github.com/oKaio06/buSnake)
+- [sorteadormasterblaster - Simple web app to randomly pair my friends for an Easter chocolate gift exchange](https://github.com/oKaio06/sorteadormasterblaster)
 - 👀 Working on some more...
 
 ## Github Stats 📊
