@@ -54,9 +54,9 @@
 
 ## Github Stats 📊
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=oKaio06&show_icons=true&theme=transparent" 
-       alt="Kaio's GitHub stats" width="35%" /> 
+       alt="Kaio's GitHub stats" width="45%" /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oKaio06&layout=compact&icons=true&theme=transparent" 
-       alt="Top Langs" width="26.62%" />
+       alt="Top Langs" width="34.2%" />
 </p>
