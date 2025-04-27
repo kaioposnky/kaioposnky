@@ -36,9 +36,10 @@ Reach me
 - 👀 Working on some more...
 
 <br>
+
 ## Stats
 ![Kaio's GitHub stats](https://github-readme-stats.vercel.app/api?username=oKaio06&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuiisMarim&layout=compact&icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oKaio06&layout=compact&icons=true&theme=transparent)
 
 <!--
 **oKaio06/oKaio06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
