@@ -1,8 +1,8 @@
 ## Hey! I'm Kaio, let's work together!  👋
 
-<h3 align="center">You can find me here</h3>
+<h3 align="left">You can find me here</h3>
 
-<p align="center">
+<p align="left">
   <a href="mailto:kposansky@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red&logoWidth=20" alt="Gmail">
   </a>
