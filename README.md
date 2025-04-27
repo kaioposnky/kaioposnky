@@ -29,11 +29,11 @@ Reach me
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 ## My Public Projects
-[CriptoEx-Py - LocalCryptoBank written in Python](https://github.com/oKaio06/CriptoEx-Py)
-[KriptoX-C - Local CryptoBank written in C](https://github.com/oKaio06/KriptoX-C-Adm)
-[Truko - Famous game Truco Paulista using WebSockets written in JavaScript + Pure NodeJS](https://github.com/oKaio06/truko)
-[buSnake - Famous game Snake adapted written in JavaScript + HTML + CSS](https://github.com/oKaio06/buSnake)
-👀 Working on some more...
+- [CriptoEx-Py - LocalCryptoBank written in Python](https://github.com/oKaio06/CriptoEx-Py)
+- [KriptoX-C - Local CryptoBank written in C](https://github.com/oKaio06/KriptoX-C-Adm)
+- [Truko - Famous game Truco Paulista using WebSockets written in JavaScript + Pure NodeJS](https://github.com/oKaio06/truko)
+- [buSnake - Famous game Snake adapted written in JavaScript + HTML + CSS](https://github.com/oKaio06/buSnake)
+- 👀 Working on some more...
 
 <br>
 ## Stats
