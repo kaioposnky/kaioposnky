@@ -38,11 +38,11 @@ Tools:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## My Public Projects 🗂️
-- [CriptoEx-Py - Local CLI CryptoBank written in Python](https://github.com/oKaio06/CriptoEx-Py)
-- [KriptoX-C - Local CLI CryptoBank written in C](https://github.com/oKaio06/KriptoX-C-Adm)
-- [Truko - Famous Truko Paulista game in Realtime using WebSockets and Node.js](https://github.com/oKaio06/truko)
-- [buSnake - Classic Snake game built with JS, HTML & CSS](https://github.com/oKaio06/buSnake)
-- [sorteadormasterblaster - Next.js app to pair friends for Easter chocolate gifts](https://github.com/oKaio06/sorteadormasterblaster)
+- **CriptoEx-Py** - [Local CLI CryptoBank written in Python](https://github.com/oKaio06/CriptoEx-Py)
+- **KriptoX-C** - [Local CLI CryptoBank written in C](https://github.com/oKaio06/KriptoX-C-Adm)
+- **Truko** - [Famous Truko Paulista game in Realtime using WebSockets and Node.js](https://github.com/oKaio06/truko)
+- **buSnake** - [Classic Snake game built with JS, HTML & CSS](https://github.com/oKaio06/buSnake)
+- **sorteadormasterblaster** - [Next.js app to pair friends for Easter chocolate gifts](https://github.com/oKaio06/sorteadormasterblaster)
 - 👀 Working on some more...
 
 ## Github Stats 📊
