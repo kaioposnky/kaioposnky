@@ -54,5 +54,9 @@
 
 ## Github Stats 📊
 
-![Kaio's GitHub stats](https://github-readme-stats.vercel.app/api?username=oKaio06&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oKaio06&layout=compact&icons=true&theme=transparent)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oKaio06&show_icons=true&theme=transparent" 
+       alt="Kaio's GitHub stats" width="35%" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oKaio06&layout=compact&icons=true&theme=transparent" 
+       alt="Top Langs" width="26.62%" />
+</p>
