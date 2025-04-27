@@ -1,11 +1,12 @@
 ## Hey! I'm Kaio, let's work together!  👋
 
 <p align="center">
-  **You can find me here**
+  **You can find me here**<br><br>
   [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red&logoWidth=20)](mailto:kposansky@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20)](https://www.linkedin.com/in/kaio-santos-a721aa31a/)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&logoWidth=20)](https://github.com/oKaio06)
 </p>
+
 ## About me 💬
 
 - 💻 I love technology and learning!
