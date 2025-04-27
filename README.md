@@ -35,7 +35,6 @@ Reach me
 - [buSnake - Famous game Snake adapted written in JavaScript + HTML + CSS](https://github.com/oKaio06/buSnake)
 - 👀 Working on some more...
 
-<br>
 ## Github Stats 📊
 
 ![Kaio's GitHub stats](https://github-readme-stats.vercel.app/api?username=oKaio06&show_icons=true&theme=transparent)
