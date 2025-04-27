@@ -1,11 +1,19 @@
 ## Hey! I'm Kaio, let's work together!  👋
 
+<h3 align="center">You can find me here</h3>
+
 <p align="center">
-  **You can find me here**<br><br>
-  [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red&logoWidth=20)](mailto:kposansky@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20)](https://www.linkedin.com/in/kaio-santos-a721aa31a/)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&logoWidth=20)](https://github.com/oKaio06)
+  <a href="mailto:kposansky@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red&logoWidth=20" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/kaio-santos-a721aa31a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/oKaio06">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&logoWidth=20" alt="GitHub">
+  </a>
 </p>
+
 
 ## About me 💬
 
