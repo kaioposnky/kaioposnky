@@ -49,7 +49,7 @@
 - **Truko** - [Famous Truko Paulista game in Realtime using WebSockets and Node.js](https://github.com/oKaio06/truko)
 - **buSnake** - [Classic Snake game built with JS, HTML & CSS](https://github.com/oKaio06/buSnake)
 - **MazeMan** - [Labyrinth creater and solver with Pacman game using CLI written in C](https://github.com/becastal/MazeMan)
-- **sorteadormasterblaster** - [Next.js app to pair friends for Easter chocolate gifts](https://github.com/oKaio06/sorteadormasterblaster)
+- **SPAP** - [Next.js app to pair friends for Easter chocolate gifts](https://github.com/oKaio06/sorteadormasterblaster)
 - 👀 Working on some more...
 
 ## Github Stats 📊
