@@ -44,12 +44,12 @@
 
 
 ## My Public Projects 🗂️
+- **Spotifei** - [Spotify copy written in Java](https://github.com/kaioposnky/Spotifei) 
 - **CriptoEx-Py** - [Local CLI CryptoBank written in Python](https://github.com/kaioposnky/CriptoEx-Py)
 - **KriptoX-C** - [Local CLI CryptoBank written in C](https://github.com/kaioposnky/KriptoX-C-Adm)
 - **Truko** - [Famous Truko Paulista game in Realtime using WebSockets and Node.js](https://github.com/kaioposnky/truko)
 - **buSnake** - [Classic Snake game built with JS, HTML & CSS](https://github.com/becastal/buSnake)
 - **MazeMan** - [Labyrinth creater and solver with Pacman game using CLI written in C](https://github.com/becastal/MazeMan)
-- **SPAP** - [Next.js app to pair friends for Easter chocolate gifts](https://github.com/kaioposnky/SPAP)
 - 👀 Working on some more...
 
 ## Github Stats 📊
